@@ -1,23 +1,26 @@
 {
-    "name": "react-native-template-tailwind",
-    "version": "0.0.1",
-    "description": "Clean and minimalist React Native template for a quick start with Tailwind.",
-    "files": [
-      "template",
-      "template.config.js"
-    ],
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ElianVanCutsem/react-native-template-tailwind.git"
-    },
-    "keywords": [
-      "react-native",
-      "tailwind"
-    ],
-    "author": "Elian Van Cutsem <elianvancutsem@gmail.com>",
-    "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ElianVanCutsem/react-native-template-tailwind/issues"
-    },
-    "homepage": "https://github.com/ElianVanCutsem/react-native-template-tailwind#readme"
-  }
+  "name": "@elianvancutsem/react-native-template-tailwind",
+  "version": "0.0.2",
+  "description": "Clean and minimalist React Native template for a quick start with Tailwind.",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ElianVanCutsem/react-native-template-tailwind.git"
+  },
+  "keywords": [
+    "react-native",
+    "tailwind"
+  ],
+  "author": "Elian Van Cutsem <elianvancutsem@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElianVanCutsem/react-native-template-tailwind/issues"
+  },
+  "homepage": "https://github.com/ElianVanCutsem/react-native-template-tailwind#readme"
+}
