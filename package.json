@@ -1,6 +1,6 @@
 {
-  "name": "@elianvancutsem/react-native-template-tailwind",
-  "version": "0.0.2",
+  "name": "react-native-template-tailwind",
+  "version": "0.0.2-beta",
   "description": "Clean and minimalist React Native template for a quick start with Tailwind.",
   "scripts": {
     "test": "exit 0"
